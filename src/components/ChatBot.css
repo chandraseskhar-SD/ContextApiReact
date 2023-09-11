@@ -1,0 +1,114 @@
+.chatbot-container1 {
+  overflow-x: hidden;
+  height: 451px;
+  /* overflow-y: scroll; */
+  overscroll-behavior-y: contain;
+  scroll-snap-type: y proximity;
+  width: 346px;
+  /* background-color: #f1f0e8; */
+}
+.chat-input {
+  margin-top: 1px;
+  /* overflow-y: hidden; */
+  /* border: 1px solid !important; */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(128, 128, 128, 0.418);
+  width: 345px;
+  border-radius: 10px;
+  background-color: white;
+}
+.chatbot-container {
+  width: 344px;
+  box-shadow: 0 0 4px rgba(128, 128, 128, 0.418);
+  padding: 0px;
+}
+.chatbot-input {
+  width: 310px;
+  border: none !important;
+  margin: none !important;
+  padding-left: 20px;
+  height: 40px;
+  border-radius: 10px;
+}
+.chatbot-sender{
+  width: 24px !important;
+}
+.chatbot-input:hover {
+  border: none;
+}
+input:focus {
+  outline: none;
+}
+.chatbot-button {
+  border: 1px;
+  margin: none;
+  width: 40px;
+  border-radius: 5px;
+  background: transparent;
+  /* margin-left: -40px; */
+}
+.bot-response {
+  justify-content: flex-end !important;
+  align-items: flex-end !important;
+  font-weight: 90px !important;
+  margin-bottom: -1px;
+  font-family: "Roboto";
+  font-weight: bold;
+  color: #185bbd;
+  margin-right: -90px;
+}
+.messages.User {
+  background-color: rgba(0, 0, 255, 0.384) !important;
+  display: flex;
+  flex-direction: row-reverse;
+  align-self: flex-end;
+  margin-left: 90px;
+  margin-top: 10px !important;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  height: 90px;
+}
+.messages.helixHotel {
+  width: 290px;
+  background-color: rgba(128, 128, 128, 0.315);
+  border-radius: 5px;
+  margin-left: 0px !important;
+}
+.bot-response1 {
+  background-color: #ededed;
+  border-radius: 6px;
+  padding: 10px;
+  /* padding-right: /; */
+  width: 298px !important;
+  /* margin: 20px; */
+  /* margin-right: -77px; */
+  margin: 12px;
+}
+/* .smile-image{
+    width: 20px;
+    border: none;
+    margin: 0px;
+    background: transparent;
+    margin-right: -30px;
+   
+} */
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.userInput {
+  background-color: rgba(95, 158, 160, 0.199);
+  margin-left: 150px;
+  margin-top: 24px;
+  border-radius: 10px;
+  margin-right: 10px;
+  padding-left: 10px;
+  
+}
+.botInput {
+  background-color: #695fa052;
+  margin-right: 40px;
+  margin-top: 24px;
+  border-radius: 10px;
+  margin-left: 10px !important;
+  padding-left: 10px;
+}

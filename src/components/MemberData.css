@@ -1,0 +1,50 @@
+.memberdata-name-msg {
+  /* margin-right: 180px; */
+  width: 72px !important;
+}
+.memberdata-chevronimage {
+  transform: rotate(180deg);
+}
+.memberdata-border {
+  border: 1px solid;
+  width: 274px;
+  margin-left: 15px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.memberdata-checkbox {
+  width: 17px;
+  height: 17px;
+}
+.selectmember-container {
+  box-shadow: 0 0 20px #cac8cc;
+  background-color: antiquewhite;
+  width: 350px;
+}
+/* .selectmember-profile {
+  width: 220px;
+} */
+.selectmember-button-icon {
+  padding: 0px;
+  border: 0px;
+  margin-left: -120px;
+  background: transparent;
+}
+.selectmember-search {
+  width: 30px;
+  height: 30px;
+}
+.selectback-selector{
+  width: 40px;
+}
+.selectmember-info-details{
+  height: 360px;
+  border: 1px solid;
+}
+.selectmember-all-deleterow{
+  width: 340px;
+  height: 30px;
+}
+.memberdata-admin{
+  margin-bottom: 10px;
+}

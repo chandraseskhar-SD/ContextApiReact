@@ -1,0 +1,53 @@
+.login-reset {
+  width: 50px !important;
+  border-radius: 5px;
+}
+.login-submit {
+  border-radius: 5px;
+  width: 184px;
+  background-color: hwb(280 20% 34% / 0.562);
+  /* margin-right: 30px; */
+}
+.login-form {
+  background-color: gray;
+  filter: brightness(120%);
+  border-radius: 10px;
+  height: 340px;
+  margin-top: 15%;
+  width: 250px;
+  padding-left: 10px;
+  margin-top: 100px;
+  filter: brightness(80%);
+}
+.login-items {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../Assets/wallpaper.png");
+  background-repeat: round;
+  /* background-size: cover   ; */
+  filter: brightness(120%);
+}
+.firstName {
+  border-radius: 5px;
+  border: none !important;
+}
+.lastName {
+  border-radius: 5px;
+  border: none !important;
+}
+.phoneno {
+  border-radius: 5px;
+  border: none !important;
+}
+.login-terms {
+  margin-top: 25px;
+  padding-left: 20px;
+}
+.profile-image-login1 {
+  border-radius: 20px !important;
+  margin-top: 10px;
+}
+.profile-image-login {
+  width: 40px;
+  border-radius: 10px;
+}

@@ -1,0 +1,86 @@
+.member-button-icon {
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+  background-color: rgba(240, 248, 255, 0);
+  /* margin-left: 195px; */
+  height: 26px;
+  width: 25px;
+}
+.member-plus {
+  margin-left: 10px;
+  height: 30px;
+  width: 30px;
+}
+.member-trash {
+  /* margin-left: 20px; */
+  height: 30px;
+}
+.member-info-details {
+  border: 1px solid;
+  height: 330px;
+  margin-top: 5px;
+}
+.common-border {
+  border: 1px solid;
+  border-bottom: 10px;
+  height: 0px;
+  margin-bottom: 10px;
+}
+.back-selector {
+  height: 45px;
+  margin-left: -20px;
+}
+.memberinfo-main {
+  width: 350px;
+  box-shadow: 0 0 20px #cac8cc;
+  background-color: antiquewhite;
+  border-radius: 10px;
+}
+.memberinfo-main1 {
+  background-color: #80808083;
+}
+.memberinfo-name-icon {
+  /* margin-left: 80px; */
+  height: 56px;
+}
+.member-all {
+  width: 310px;
+  margin-top: 10px;
+  height: 30px;
+}
+.selectmember-container {
+  border-radius: 20px;
+}
+.selectmember-container1 {
+  background-color: #80808083;
+}
+.memberinfo-famjam {
+  margin-left: -20px;
+}
+.memberinfo-search {
+  width: 30px;
+  height: 30px;
+}
+.selectmember-plus {
+  width: 30px;
+  height: 30px;
+}
+/* .selectmember-famjam {
+  margin-right: -20px;
+} */
+.memberinfo-famjam{
+  margin-right: -20px;
+}
+.memberinfo-breakline{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  position: relative;
+}
+.memberinfo-network-batteryicons{
+  width: 134px;
+  margin-left: 30px;
+}
+.memberinfo-plus-delete-icon{
+   width: 110px;
+}

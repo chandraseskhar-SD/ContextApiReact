@@ -1,0 +1,167 @@
+.container1-groupchat {
+  align-items: center;
+  /* margin-left: 450px; */
+  width: 345px;
+  border-radius: 5px;
+  justify-content: center;
+  box-shadow: 2px;
+  box-shadow: 0 0 20px hsla(270, 4%, 79%, 0.356);
+  border-radius: 10px;
+  overflow-y: visible;
+  background-color: antiquewhite;
+  margin-top: 10px;
+  height: 660px;
+  padding-left: 0px;
+}
+.groupchatsearch-div{
+  width:340px
+}
+.top-symbols {
+  display: flex;
+  gap: 1rem;
+  padding-right: 30px;
+  margin-top: 0 !important;
+}
+
+.ginetwork {
+  width: 20px;
+  height: 30px;
+}
+.luwifi {
+  width: 20px;
+  height: 30px;
+}
+.fabattery {
+  width: 20px;
+  height: 30px;
+}
+
+.second-row-col2 {
+  display: flex;
+  /* margin-left: 40px; */
+}
+.liaeditsolid {
+  width: 20px;
+  height: 30px;
+  margin-right: 13px;
+}
+.goplus {
+  width: 25px;
+  height: 30px;
+  margin-left: 20px;
+}
+/* .newgroup {
+  margin-right: 20px;
+} */
+.search-button-icon {
+  border: 0px;
+  margin: 0px;
+  background: transparent;
+}
+.search-input-group {
+  border: 0px;
+  width: 100px;
+}
+.search-row-col {
+  border: 1px solid;
+  border-radius: 5px;
+}
+.search-row-col {
+  width: 146px;
+  /* margin-left: 30px; */
+}
+.search-input {
+  padding-left: 8px;
+  width: 67px;
+  border: 0px;
+  margin: 0px;
+  background: transparent;
+}
+.groupchat-shadowtop{
+  box-shadow: 0 0 2px gray;
+  height: 122px;
+  padding-left: -2px !important;
+  border-radius: 5px;
+  width: 344px;
+}
+.time-para {
+  margin-top: 15px;
+  margin-left: 18px;
+}
+.groupchat-line {
+  width: 448px;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.group-profile {
+  height: 623px;
+}
+.group-chat {
+  margin-left: 18px;
+}
+.group-line {
+  margin-top: 0px;
+  margin-top: -16px;
+}
+.dynamic-name {
+  /* margin-left: 30px; */
+  height: 56px;
+  width:120px;
+}
+.groupchat-groupname{
+  font-size: 17px;
+}
+.dynamic-group{
+  width: 328px;
+}
+.group-chat1 {
+  background-color: antiquewhite;
+  border-radius: 30px;
+}
+.newgroup {
+  margin-left: 10px;
+}
+.dynamic-img {
+  height: 56px;
+  margin-left: 10px;
+}
+.breakline {
+  margin-left: 90px;
+  height: 1px;
+  width: 240px;
+  margin-top: 5px;
+}
+.groupchat-head-break-line{
+  padding: none !important;
+  opacity: 100%;
+  margin-top: 0px;
+  
+}
+.group-time {
+  margin-left: -30px !important;
+}
+.groupchat-count {
+  /* margin-left: 50px; */
+  padding-left: 0px;
+
+  width: 22px;
+  border-radius: 300px;
+  height: 20px;
+  background-color: rgba(137, 43, 226, 0.452);
+}
+.groupchat-head {
+  background-color: #80808079;
+  overflow-y: scroll;
+  height: 100vh;
+}
+.dynamic-msg {
+  margin-bottom: -40px;
+}
+.groupname-chatmsg{
+  width: 228px;
+  margin-left: 100px;
+  justify-content: space-between;
+}
+.groupchat-groupname{
+  margin-left: -20px;
+}

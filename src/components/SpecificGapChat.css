@@ -1,0 +1,49 @@
+.chevron-left {
+  height: 50px;
+  width: 50px;
+}
+.gapchat-top4 {
+  height: 50px;
+  padding-left: 0px;
+  margin-bottom: 5px;
+}
+/* .gapchat-young{
+    margin-left: -60px;
+} */
+.gap-chat-name {
+  padding-top: 15px;
+  width: 212px;
+}
+/* .gapchat-participant{
+    margin-left: 80px;
+} */
+.container1-specificgapcahat {
+  align-items: center;
+  /* margin-left: 500px; */
+  /* width: 350px; */
+  border-radius: 5px;
+  box-shadow: 0 0 20px #cac8cc;
+  height: 630px;
+  /* border-radius: 30px; */
+  display: flex;
+  justify-content: center;
+  background-color: #80808083;
+}
+.specificgroupcahat {
+  border-radius: 10px;
+  background-color: antiquewhite;
+  height: 609px;
+  width: 350px;
+  opacity: 300%;
+  filter: brightness(100%);
+}
+.top-row {
+  height: 36px;
+}
+.groupchat-footer{
+  width:358px
+  
+}
+.specificback-selector{
+  height: 50px;
+}
